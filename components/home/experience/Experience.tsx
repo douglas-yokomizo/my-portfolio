@@ -14,48 +14,44 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "Google",
-    position: "Software Engineer",
-    time: "2022 - Present",
-    location: "Atlanta",
+    title: "Fator Bank",
+    position: "Financial Analyst",
+    time: "2021 - 2022",
+    location: "São Paulo",
     description:
-      "I help build and scale Google Photos. Increased throughput of our primary services by 70%. Migrated backend service from Java to Go. Also helped make it look prettier.",
-    tech: [
-      "Angular",
-      "Python",
-      "GCP",
-      "Git",
-      "GitHub",
-      "Java",
-      "Golang",
-      "K8s",
-    ],
+      " I used data analysis tools to collect and process information on revenues, costs, profitability and risks. I also created reports and dashboards to present results and recommendations to managers. With my work, I contributed to increasing operational efficiency, reducing costs and improving bank customer satisfaction",
+    tech: ["Excel", "PowerBI", "Microsoft Office", "Tableau"],
   },
   {
-    title: "Facebook",
-    position: "Software Engineer",
-    time: "2020 - 2022",
-    location: "San Francisco",
+    title: "Goldman Sachs",
+    position: "Internal Audit Intern",
+    time: "2019- 2020",
+    location: "São Paulo",
     description:
-      "Senior Full Stack Engineer for Facebook Marketplace. Created a service from scratch to handle new listings. Also played some ping pong. It was fun.",
-    tech: ["React", "Node", "PHP", "GraphQL", "Presto", "Cassandra"],
+      "I participated in a project that involved reviewing the company's internal controls, identifying risks and opportunities for improvement. The project was a success because it contributed to increasing the efficiency and security of the company’s processes, as well as generating savings of resources and time.",
+    tech: ["Excel", "Microsoft Office",],
   },
   {
     title: "Amazon",
-    position: "Software Engineer",
-    time: "2016 - 2020",
-    location: "Seattle",
+    position: "Accounting Intern",
+    time: "2019 - 2019",
+    location: "São Paulo",
     description:
-      "Data Engineer for store front. Built data pipelines with Spark and Airflow. Saw Bezos one time. He said he liked my paintings. I said I liked his hair.",
+      "Implementation of a new integrated financial management system. This system allowed for the optimization of accounting processes, cost reduction and increased efficiency and transparency of the company’s financial operations. I was responsible for assisting in the migration of data from the old system to the new one, performing quality and validation tests and preparing performance reports and indicators.",
     tech: [
-      "Java",
-      "Python",
-      "S3",
-      "RDS",
-      "Redshift",
-      "PySpark",
-      "HDFS",
-      "Apache Airflow",
+      "Excel", "Microsoft Office", "Oracle ERP"
+    ],
+  },
+
+  {
+    title: "Multiplus",
+    position: "Tax Intern",
+    time: "2018 - 2018",
+    location: "São Paulo",
+    description:
+      "Implementation of a control and monitoring system for tax obligations that reduced the risks of fines and penalties, as well as optimized the time and resources of the team. This system was developed in partnership with the IT department, and I was responsible for identifying tax needs and requirements and testing functionalities. The result was an increase in the efficiency and quality of tax work, as well as greater integration between the company’s areas",
+    tech: [
+      "Excel", "Microsoft Office", "SAP ERP"
     ],
   },
 ];

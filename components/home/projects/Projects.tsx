@@ -19,12 +19,12 @@ export const Projects = () => {
 const projects = [
   {
     title: "Animeroll",
-    imgSrc: "project-imgs/example-project.jpg",
+    imgSrc: "project-imgs/AnimeRoll-project.png",
     code: "https://github.com/douglas-yokomizo/animeroll",
     projectLink: "https://animeroll-page.vercel.app/",
     tech: ["Bootstrap", "HTML5", "CSS3"],
     description:
-      "A simple anime stream service concept built using Bootstrap",
+      "A simple anime stream service concept built using Bootstrap.",
     modalContent: (
       <>
         <p>
@@ -38,12 +38,12 @@ const projects = [
   },
   {
     title: "Too Yeah",
-    imgSrc: "project-imgs/example-project.jpg",
+    imgSrc: "project-imgs/TooYeah-project.png",
     code: "https://github.com/douglas-yokomizo/too-yeah",
     projectLink: "https://too-yeah.vercel.app/",
     tech: ["JavaScript", "HTML5", "CSS3"],
     description:
-      "This is a landing page I built for my friend's restaurant",
+      "A landing page I built for my friend's restaurant.",
     modalContent: (
       <>
         <p>
@@ -57,7 +57,7 @@ const projects = [
   },
   {
     title: "Clone Disney+",
-    imgSrc: "project-imgs/example-project.jpg",
+    imgSrc: "project-imgs/Disney-project.png",
     code: "https://github.com/douglas-yokomizo/clone_disneyplus",
     projectLink: "https://clone-disneyplus-f5fe.vercel.app/",
     tech: ["HTML5", "CSS3", "JavaScript", "Gulp", "SaSS"],
@@ -73,28 +73,21 @@ const projects = [
   },
   {
     title: "My Portfolio",
-    imgSrc: "project-imgs/example-project.jpg",
-    code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["Python", "FastAPI", "SQLAlchemy"],
+    imgSrc: "project-imgs/MyPortfolio-project.png",
+    code: "https://github.com/douglas-yokomizo/my-portfolio",
+    projectLink: "https://my-portfolio-liard-one.vercel.app/",
+    tech: ["React", "NextJS", "SaSS", "AnimeJS", "Framer Motion"],
     description:
-      "I couldn't think of another paint reference app, so here we are. I think you get the idea, right? Use your imagination 🌈",
+      "This is the latest project I worked on and I'm really proud of the result.",
     modalContent: (
       <>
-        <p>Alright, you got me. I&apos;m all out of paint references.</p>
         <p>
-          Point is, use this space to explain a bit further WHAT this project
-          is, as well as what YOU contributed to it.
-        </p>
-        <p>You get the idea. Now more lorem {":)"}</p>
+          One of the projects I&apos;m most proud of. It showcases my skills and experience as a web developer.</p>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
+          I built it using NextJS, a framework that allows me to create fast and SEO-friendly websites with React. To add some interactivity and animation to my website, I used AnimeJS and framer motion, two libraries that make it easy to create smooth and realistic animations with JavaScript.
         </p>
         <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
+          My portfolio website is responsive, accessible and modern, and I think it reflects my personality and passion for web development.
         </p>
       </>
     ),
