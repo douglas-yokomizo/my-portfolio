@@ -31,7 +31,7 @@ const projects = [
           AnimeRoll is a landing page for a platfotm dedicated to anime and manga enthusiasts, providing a collection of popular anime shows, manga series, and games. The website features a user-friendly interface and various sections to explore different content.
         </p>
         <p>
-          The AnimeRoll website is built using HTML, CSS, and JavaScript. It utilizes the Bootstrap framework for responsive design and interactivity.
+          The AnimeRoll website was built using HTML, CSS, and JavaScript. It utilizes the Bootstrap framework for responsive design and interactivity.
         </p>
       </>
     ),
@@ -47,10 +47,10 @@ const projects = [
     modalContent: (
       <>
         <p>
-          I made this project for a friend&apos;s restaurant to showcases the menu and provides information about the restaurant.
+          I made this project so the restaurant could show it&apos;s menu and provide information about the restaurant.
         </p>
         <p>
-          The project is built using HTML, CSS, and vanilla JavaScript to add animations and interactivity.
+          The project was built using HTML, CSS, and vanilla JavaScript to add animations and interactivity.
         </p>
       </>
     ),
