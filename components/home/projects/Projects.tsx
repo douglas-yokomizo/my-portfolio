@@ -43,7 +43,7 @@ const projects = [
     projectLink: "https://too-yeah.vercel.app/",
     tech: ["JavaScript", "HTML5", "CSS3"],
     description:
-      "A landing page I built for my friend's restaurant.",
+      "A landing page I built for a restaurant.",
     modalContent: (
       <>
         <p>
