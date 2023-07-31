@@ -18,6 +18,30 @@ export const Projects = () => {
 
 const projects = [
   {
+    title: "Task Manager",
+    imgSrc: "project-imgs/Task-manager.png",
+    code: "https://github.com/douglas-yokomizo/minhas-tarefas",
+    projectLink: "https://minhas-tarefas-tau.vercel.app/",
+    tech: ["Styled-components", "React", "TypeScript", "Redux Toolkit"],
+    description:
+      "A more complete task manager with state management using Redux Toolkit.",
+    modalContent: (
+      <>
+        <p>
+          I made a task manager project using react, typescript, styled-components, react-router and redux-toolkit.
+        </p>
+        <p>
+          The project allows users to create, edit, delete and organize tasks into different categories.
+          Users can also filter tasks by status, priority or due date.
+        </p>
+        <p>
+          The project uses react-router to navigate between different views, such as the dashboard, the task list and the task details. The project also uses redux-toolkit to manage the global state of the application, such as the tasks, the categories and the filters.
+          The project is styled with styled-components, which allows me to write CSS in JS and use props and themes to customize the appearance of the components.
+        </p>
+      </>
+    ),
+  },
+  {
     title: "Animeroll",
     imgSrc: "project-imgs/AnimeRoll-project.png",
     code: "https://github.com/douglas-yokomizo/animeroll",
