@@ -100,7 +100,7 @@ const projects = [
     imgSrc: "project-imgs/MyPortfolio-project.png",
     code: "https://github.com/douglas-yokomizo/my-portfolio",
     projectLink: "https://my-portfolio-liard-one.vercel.app/",
-    tech: ["React", "NextJS", "SaSS", "AnimeJS", "Framer Motion"],
+    tech: ["React", "NextJS", "SaSS", "AnimeJS", "Framer Motion", "TypeScript"],
     description:
       "This is the latest project I worked on and I'm really proud of the result.",
     modalContent: (
