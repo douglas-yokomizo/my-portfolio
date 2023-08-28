@@ -22,11 +22,6 @@ export const Contact = () => {
             >
               Linkedin
             </Link>{" "}
-            or{" "}
-            <Link href="https://www.instagram.com/doug_yyk/" target="_blank" rel="nofollow">
-              Instagram
-            </Link>{" "}
-            if that&apos;s more your speed.
           </p>
         </Reveal>
         <Reveal width="100%">
