@@ -42,20 +42,17 @@ const projects = [
     ),
   },
   {
-    title: "Animeroll",
+    title: "Yokz Restaurant",
     imgSrc: "project-imgs/AnimeRoll-project.png",
-    code: "https://github.com/douglas-yokomizo/animeroll",
-    projectLink: "https://animeroll-page.vercel.app/",
-    tech: ["Bootstrap", "HTML5", "CSS3"],
+    code: "https://github.com/douglas-yokomizo/restaurante-yokomizo",
+    projectLink: "https://restaurante-yokz.vercel.app/",
+    tech: ["NextJS", "HTML5", "CSS3", "Tailwind", "Firebase", "ContextAPI", "TypeScript"],
     description:
-      "A simple anime stream service concept built using Bootstrap.",
+      "A complete restaurant page with firebase integration.",
     modalContent: (
       <>
         <p>
-          AnimeRoll is a landing page for a platfotm dedicated to anime and manga enthusiasts, providing a collection of popular anime shows, manga series, and games. The website features a user-friendly interface and various sections to explore different content.
-        </p>
-        <p>
-          The AnimeRoll website was built using HTML, CSS, and JavaScript. It utilizes the Bootstrap framework for responsive design and interactivity.
+          This project is a Japanese restaurant website developed with Next.js, Tailwind, TypeScript and Firebase. The website contains 7 main pages, which include home, about, menu, cart view, checkout, item detail and contact. Each page has specific functionalities to inform and assist users in choosing dishes and completing orders.
         </p>
       </>
     ),
