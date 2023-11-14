@@ -22,6 +22,12 @@ export const Stats = () => {
             <span className="chip">jQuery</span>
             <span className="chip">REST API</span>
             <span className="chip">Figma</span>
+            <span className="chip">Tailwind</span>
+            <span className="chip">Next</span>
+            <span className="chip">VueJS</span>
+            <span className="chip">Redux</span>
+            <span className="chip">Jest</span>
+            <span className="chip">Cypress</span>
           </div>
         </div>
       </Reveal>
@@ -33,12 +39,9 @@ export const Stats = () => {
           </h4>
           <div className={styles.statGrid}>
             <span className="chip">Python</span>
-            <span className="chip">Tailwind</span>
-            <span className="chip">Spring</span>
-            <span className="chip">Redux</span>
-            <span className="chip">Next</span>
-            <span className="chip">Vue</span>
             <span className="chip">Angular</span>
+            <span className="chip">Django</span>
+            <span className="chip">Docker</span>
           </div>
         </div>
       </Reveal>

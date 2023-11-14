@@ -43,7 +43,7 @@ const projects = [
   },
   {
     title: "Yokz Restaurant",
-    imgSrc: "project-imgs/AnimeRoll-project.png",
+    imgSrc: "project-imgs/yokz-project.png",
     code: "https://github.com/douglas-yokomizo/restaurante-yokomizo",
     projectLink: "https://restaurante-yokz.vercel.app/",
     tech: ["NextJS", "HTML5", "CSS3", "Tailwind", "Firebase", "ContextAPI", "TypeScript"],
