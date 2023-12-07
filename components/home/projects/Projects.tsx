@@ -58,6 +58,22 @@ const projects = [
     ),
   },
   {
+    title: "eFood",
+    imgSrc: "project-imgs/efood.png",
+    code: "https://github.com/douglas-yokomizo/efood",
+    projectLink: "https://efood-zeta-seven.vercel.app/",
+    tech: ["React", "styled-components", "Redux Toolkit", "Vite", "Formik", "Yup", "TypeScript"],
+    description:
+      "A complete website for restaurant advertisement.",
+    modalContent: (
+      <>
+        <p>
+          This project consist in a page that shows highlights of the week and the restaurants categories available in the platform. You can click on the stablishment to see more details like, name, description and menu. You can also place an order online, filling the form with your data and chosing the items you want.
+        </p>
+      </>
+    ),
+  },
+  {
     title: "Too Yeah",
     imgSrc: "project-imgs/TooYeah-project.png",
     code: "https://github.com/douglas-yokomizo/too-yeah",
